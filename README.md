@@ -18,12 +18,6 @@ Automatic Image Capture: Automatically captures images upon detecting movement.
 Multi-threading Support: Ensures motion detection runs seamlessly in the background without affecting system performance.
 Timestamped Image Files: Images are saved with timestamped filenames for easier event tracking.
 User-Friendly Interface (Optional): Provides a simple GUI to start and stop the monitoring process.
-⚙️ Installation Instructions
-Clone the Repository:
-
-git clone https://github.com/yourusername/computer-lock-motion-detection.git
-cd computer-lock-motion-detection
-Install Required Libraries: Install the necessary Python libraries with pip:
 
 🧑‍💻 Usage
 Once the program is running:
