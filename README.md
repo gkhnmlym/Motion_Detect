@@ -21,8 +21,6 @@ User-Friendly Interface (Optional): Provides a simple GUI to start and stop the 
 ⚙️ Installation Instructions
 Clone the Repository:
 
-bash
-Kodu kopyala
 git clone https://github.com/yourusername/computer-lock-motion-detection.git
 cd computer-lock-motion-detection
 Install Required Libraries: Install the necessary Python libraries with pip:
