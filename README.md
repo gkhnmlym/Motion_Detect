@@ -25,9 +25,6 @@ git clone https://github.com/yourusername/computer-lock-motion-detection.git
 cd computer-lock-motion-detection
 Install Required Libraries: Install the necessary Python libraries with pip:
 
-bash
-Kodu kopyala
-python main.py
 🧑‍💻 Usage
 Once the program is running:
 
